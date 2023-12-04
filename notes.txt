@@ -1,0 +1,8 @@
+db username: snoopyhassan007
+db password: XiqbaIn9nQTFOrdC
+db link: mongodb+srv://snoopyhassan007:<password>@cluster0.unrltmf.mongodb.net/?retryWrites=true&w=majority
+
+
+===============================
+1) npm init -y
+2) npm install @apollo/server graphql mongoose nodemon
